@@ -30,8 +30,10 @@ and create the algorithm for the assignment added time counted, storage high sco
 
 ![Screen Shot 2021-11-14 at 1 19 44 PM](https://user-images.githubusercontent.com/91921941/141693438-8a26aed4-59a5-47ee-b455-37e32451cfdc.png)
 
-Added the actual distributed Github link and Html:
+Added the actual distributed Github link and Html and link to the video recorder:
 
 https://github.com/acmcalvo/Code-Quiz.git
 
 https://acmcalvo.github.io/Code-Quiz/
+
+https://watch.screencastify.com/v/04lLmRbAjcPkIIychQ6h
