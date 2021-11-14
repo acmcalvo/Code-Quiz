@@ -93,23 +93,3 @@ h1 {
 .highscore-btn{
   display: inline!important;
 }
-
-@media only screen and (min-width: 768px) {
-
-  #positionWrapper{
-    min-height: calc(100% - 82px)
-  }
-
-  #finish #records{
-    display:flex;
-    align-items: center;
-  }
-
-  #finish #records input, #finish #records button{
-    margin-left:10px;
-  }
-
-  #info{
-    flex-direction:row;
-  }
-}
