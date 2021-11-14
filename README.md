@@ -20,7 +20,9 @@ This is a screenshot of the first part
 <img width="596" alt="Screen Shot 2021-11-14 at 12 20 15 PM" src="https://user-images.githubusercontent.com/91921941/141691366-30ee5e86-cb43-44d1-9f23-d769f9f07ead.png">
 
 
-Thent my logic was create a questionary
+Thent my logic was create a questionary,and make happens the rest of the request for this assingment:
+
+
 
 ![Screen Shot 2021-11-14 at 12 24 37 PM](https://user-images.githubusercontent.com/91921941/141691521-c3a8058e-6644-4d3d-a227-43871ae319d8.png)
 
@@ -29,3 +31,11 @@ and create athe algoritmit for the assigmenet added time counted, storage hight 
 ![Screen Shot 2021-11-14 at 12 32 38 PM](https://user-images.githubusercontent.com/91921941/141691765-b845be4f-46dd-4ee0-88b4-93c150b916df.png)
 
 ![Screen Shot 2021-11-14 at 12 36 42 PM](https://user-images.githubusercontent.com/91921941/141691893-544ffd5b-0047-4b53-9633-25f6dd0f1e4d.png)
+
+![Screen Shot 2021-11-14 at 1 19 44 PM](https://user-images.githubusercontent.com/91921941/141693438-8a26aed4-59a5-47ee-b455-37e32451cfdc.png)
+
+added Github Link and Html of actually assigment:
+
+https://github.com/acmcalvo/Code-Quiz.git
+
+https://acmcalvo.github.io/Code-Quiz/
